@@ -1,0 +1,2 @@
+MainPackage=C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\Multiplier\bin\AnyCPU\Release\Multiplier_1.0.6.0_AnyCPU.msix
+SymbolPackage=C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\Multiplier\obj\Release\Symbols\Multiplier_1.0.6.0_AnyCPU.appxsym
