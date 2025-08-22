@@ -1,0 +1,15 @@
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\DeploymentTask1.exe.config
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\DeploymentTask1.exe
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\DeploymentTask1.pdb
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.csproj.AssemblyReference.cache
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.Properties.Resources.resources
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.csproj.GenerateResource.cache
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.csproj.CoreCompileInputs.cache
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.exe
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.pdb
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\DeploymentTask1.Form1.resources
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\MathLibrary.dll
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\MathLibrary.pdb
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\obj\Debug\Deployme.DFE28AEC.Up2Date
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\AuthorLibrary.dll
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Debug\AuthorLibrary.pdb

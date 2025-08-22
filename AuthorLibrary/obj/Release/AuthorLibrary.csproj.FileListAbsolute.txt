@@ -1,0 +1,6 @@
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\bin\Release\AuthorLibrary.dll
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\bin\Release\AuthorLibrary.pdb
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\obj\Release\AuthorLibrary.csproj.AssemblyReference.cache
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\obj\Release\AuthorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\obj\Release\AuthorLibrary.dll
+C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\obj\Release\AuthorLibrary.pdb
