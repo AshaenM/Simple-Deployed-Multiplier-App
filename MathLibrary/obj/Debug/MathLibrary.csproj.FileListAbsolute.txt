@@ -1,6 +1,0 @@
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\bin\Debug\MathLibrary.dll
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\bin\Debug\MathLibrary.pdb
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\obj\Debug\MathLibrary.dll
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\obj\Debug\MathLibrary.pdb

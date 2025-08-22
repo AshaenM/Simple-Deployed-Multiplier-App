@@ -1,3 +1,0 @@
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\AuthorLibrary\bin\Release\AuthorLibrary.dll
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\DeploymentTask1\bin\Release\DeploymentTask1.exe
-C:\Users\ashae\OneDrive\Desktop\Uni\Year3\Semester2\Software Deployment & Evolution\Deployment Task 1\MathLibrary\bin\Release\MathLibrary.dll
